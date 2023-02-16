@@ -1,7 +1,7 @@
-
+import styles from '../navbar/navbar.module.css'
 function Navbar() {
     return <>
-    <h1>venom</h1>
+    <h1 className={styles.font}>Venom</h1>
     </>
 }
 
