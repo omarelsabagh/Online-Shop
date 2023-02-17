@@ -2,7 +2,7 @@
 function Navbar() {
   return (
     <>
-      <nav>
+      <nav >
 
       </nav>
     </>
