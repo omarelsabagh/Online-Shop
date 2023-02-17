@@ -1,11 +1,5 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from '@next/font/google'
-import Navbar from '@/components/navbar/navbar'
-
-//Global Font 
-const inter = Inter({ subsets: ['latin'] })
-
+import Head from "next/head";
+import Homepage from "@/components/homepage comps/homepage";
 export default function Home() {
   return (
     <>
@@ -16,10 +10,7 @@ export default function Home() {
         <link rel="icon" href="/Dapino-People-With-Hat-Miss-purple-hat.ico" />
       </Head>
       
-      <main className={inter.className}>
-      <Navbar/>
-      </main>
-    
+      <Homepage/>
     </>
-  )
+  );
 }
