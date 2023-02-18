@@ -1,3 +1,5 @@
+import FiberNewIcon from '@mui/icons-material/FiberNew';
+
 function Navbar2(){
 
     return <>
@@ -7,7 +9,8 @@ function Navbar2(){
             <li className="border-b-2 border-transparent hover:border-white">
                 <a href="">SHOP</a>
             </li>
-            <li className="border-b-2 border-transparent hover:border-white">
+            <li className="border-b-2 border-transparent hover:border-white ">
+          
                 <a href="">PRODUCT</a>
             </li>
             <li className="border-b-2 border-transparent hover:border-white">

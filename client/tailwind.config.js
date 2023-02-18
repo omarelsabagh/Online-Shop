@@ -12,7 +12,11 @@ module.exports = {
         myPink: "#FFE8E8",
         logoColor: "#242424",
         silver: "#4D4D4D",
+        siteDark: "#232323"
       },
+      width:{
+        '30%': "30%"
+      }
     },
   },
   plugins: [],
