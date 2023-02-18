@@ -5,9 +5,9 @@ export default function Home() {
     <>
       <Head>
         <title>Venom</title>
-        <meta name="description" content="Women Fashion" />
+        <meta name="description" content="Men Clothes" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/Dapino-People-With-Hat-Miss-purple-hat.ico" />
+        <link rel="icon" href="/Letter_V_blue_34853.ico" />
       </Head>
       
       <Homepage/>
