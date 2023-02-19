@@ -3,7 +3,12 @@ import Section2 from "./section2/section2"
 import Transition from "./transition/transitions"
 
  function Homepage() {
-  const transitions  = {newArrivals:"NEW ARRIAVALS"}
+  const transitions   = {newArrivals:"NEW ARRIAVALS"}
+
+  console.log(typeof transitions.newArrivals );
+  
+  
+  
   return (
     <>
    <Header/>
