@@ -37,6 +37,7 @@ module.exports = {
       },
       translate: {
         'center': '-50%',
+        'btn':'-2.5rem'
       },
       zIndex: {
         'behind': '-1',
