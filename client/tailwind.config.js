@@ -34,8 +34,13 @@ module.exports = {
         // => @media (max-width: 639px) { ... }
         'mn': {'min':'640px'}
         // => @media (min-width: 639px) { ... }
- 
       },
+      translate: {
+        'center': '-50%',
+      },
+      zIndex: {
+        'behind': '-1',
+      }
     },
   },
   plugins: [],
