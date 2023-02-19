@@ -4,7 +4,7 @@ function Navbar2(){
 
     return <>
     <nav>
-        <div className="bg-black p-3 ">
+        <div className="bg-black p-3 sm:hidden ">
         <ul className="flex items-center text-white gap-x-12 mx-6  cursor-pointer font-semibold">
             <li className="border-b-2 border-transparent hover:border-white">
                 <a href="">SHOP</a>
