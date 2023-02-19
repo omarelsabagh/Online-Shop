@@ -5,10 +5,6 @@ import Transition from "./transition/transitions"
  function Homepage() {
   const transitions   = {newArrivals:"NEW ARRIAVALS"}
 
-  console.log(typeof transitions.newArrivals );
-  
-  
-  
   return (
     <>
    <Header/>
